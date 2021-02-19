@@ -1,0 +1,14 @@
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Repo.deps.json
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Repo.dll
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Repo.pdb
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Common.dll
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Data.dll
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Common.pdb
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\bin\Debug\netcoreapp3.0\MadPay724.Data.pdb
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.csprojAssemblyReference.cache
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.AssemblyInfoInputs.cache
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.AssemblyInfo.cs
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.csproj.CoreCompileInputs.cache
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.csproj.CopyComplete
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.dll
+E:\0ImportantProj\BigProject\MadPay724-Server\MadPay724\MadPay724.Repo\obj\Debug\netcoreapp3.0\MadPay724.Repo.pdb
